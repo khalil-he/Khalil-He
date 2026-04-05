@@ -2,7 +2,7 @@
 
 > Building intelligent products from strategy to code.
 
-UChicago MSADS · AI PM @ Meituan (2x) · Co-founder @ Eureka.ai
+UChicago MSADS · AI PM @ Meituan · Co-founder @ Eureka.ai
 
 ---
 
@@ -21,7 +21,6 @@ My edge: I can define the spec *and* ship the demo.
 ## Currently building
 
 **[Eureka.ai](https://khalilhe.xyz)** — AI-powered decision intelligence platform  
-B2B pilot with UChicago Career Center
 
 ---
 
