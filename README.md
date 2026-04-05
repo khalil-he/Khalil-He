@@ -1,16 +1,49 @@
-## Hi there 👋
+# Khalil He — AI Product Manager & Builder
 
-<!--
-**khalil-he/Khalil-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building intelligent products from strategy to code.
 
-Here are some ideas to get you started:
+UChicago MSADS · AI PM @ Meituan (2x) · Co-founder @ Eureka.ai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+
+I work at the intersection of **Generative AI, product strategy, and data**.  
+My edge: I can define the spec *and* ship the demo.
+
+**Product focus areas:**
+- LLM product design, evaluation & performance tuning
+- AI workflow automation
+- 0→1 product launches in healthcare & consumer AI
+
+---
+
+## Currently building
+
+**[Eureka.ai](https://khalilhe.xyz)** — AI-powered decision intelligence platform  
+B2B pilot with UChicago Career Center
+
+---
+
+## Selected work
+
+| Project | What I did | Impact |
+|---|---|---|
+| AI Quality Inspection (Meituan) | LLM-powered sales call QA — full spec + demo | −80% rule deployment cycle |
+| AI Film Explorer (Meituan) | RAG + LLM ranking, owned AI modules | <3% hallucination rate |
+| AI Tongue Diagnosis (Meituan) | PO for 0→1 launch, knowledge graph + vector search | 93% accuracy |
+| Sony Competitive Intelligence | Multi-LLM automation workflow on Coze | 2hr → <5min daily |
+
+---
+
+## Skills
+
+`LLM Product` `RAG` `Evaluation Frameworks` `Product Spec` `Next.js` `Python` `Data Analysis`
+
+---
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jialiang%20He-blue)](https://www.linkedin.com/in/jialiang-he-2766a022b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khalilhe.xyz-black)](https://khalilhe.xyz)
+📧 khalil-he@outlook.com
