@@ -41,7 +41,9 @@ My edge: I can define the spec *and* ship the demo.
 | Repo | What it is | Stack |
 |---|---|---|
 | **[Eureka](https://github.com/khalil-he/Eureka)** | AI strategic decision support — three-phase LangGraph workflow (Clarify → Solve → Synthesize) with a live decision-tree canvas | LangGraph · FastAPI · React · SSE |
-| **[Deepfake-Bayesian-Detection](https://github.com/khalil-he/Deepfake-Bayesian-Detection)** | Deepfake detection that tells you *when it doesn't know* — calibrated uncertainty via MC Dropout & Variational Inference | PyTorch · Xception · Streamlit |
+| **[Deepfake-Bayesian-Detection](https://github.com/khalil-he/Deepfake-Bayesian-Detection)** | Deepfake detection that tells you *when it doesn't know* — calibrated uncertainty via MC Dropout & Variational Inference *(team of 4)* | PyTorch · Xception · Streamlit |
+| **[RAG-based MSADS QA Agent](https://github.com/Yoki-SyZhang/RAG-based-Interactive-AI-for-MSADS-Website)** | Local, citation-grounded QA agent for the UChicago MSADS site — DOM-aware knowledge graph + hybrid retrieval (vector + BM25 + structural) with a multi-step agent loop *(team project)* | Playwright · ChromaDB · BGE · Ollama (qwen3:8b) |
+| **[KuaiRand Recommendation System](https://github.com/lamtran21/kuairand-recommendation-system)** | Collaborative-filtering benchmark on KuaiRand-Pure — Popularity / ItemCF / SVD / ALS, plus a two-stage ALS retrieval + GBT re-ranker pipeline *(team project)* | Python · ALS · GBT · Pandas |
 
 ---
 
